@@ -3,4 +3,4 @@
 
 <h2>Location Validation API<h2>
 
-<a href="https://www.careeronestop.org/Developers/WebAPI/LocationValidation/get-location.aspx</a>
+<a href="https://www.careeronestop.org/Developers/WebAPI/LocationValidation/get-location.aspx">Get Location</a>
