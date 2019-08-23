@@ -1,5 +1,5 @@
 # LocationValidation
-'Get Location' is an API that enables developers to retrieve specific location information from input. The returned list object contains location details. The API provides search results based on location entered
+This API enables developers to retrieve specific location information. The returned list contains location details for state, cities, NECTA and MSA divisions, zip codes, counties, etc. 
 
 <h2>Location Validation API<h2>
 
