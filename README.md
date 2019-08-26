@@ -1,5 +1,5 @@
 # LocationValidation
-This API enables developers to retrieve specific location information. The returned list contains location details for state, cities, NECTA and MSA divisions, zip codes, counties, etc. 
+This API enables developers to validate location input, and to retrieve identities of geographical areas with which it is associated:  the state or territory; all the counties and county-equivalents; and all “areas” including Metropolitan Statistical Areas, Metropolitan NECTA areas, and OES-defined nonmetropolitan areas. 
 
 <h2>Location Validation API<h2>
 
